@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style>
+        span{
+            color: red;
+        }
+    </style>
+    <script src="../django_study/jquery.js"></script>
+</head>
+<body>
+<h3>时间：<span>{{ now }}</span></h3>
+</body>
+<script>
+    var reflash = function(){
+    window.navigate(location)
+    }
+    window.setTimeout(reflash(),3000)
+</script>
+</html>
