@@ -24,6 +24,12 @@
       <change afterPath="$PROJECT_DIR$/templates/login.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/django_study/jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/django_study/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/django_study/settings.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/django_study/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/django_study/urls.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,6 +58,8 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
+  <component name="ProjectId" id="279MqPQhubdAAID8hR1AQOgfqZw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -115,6 +123,7 @@
       <workItem from="1648728040850" duration="4504000" />
       <workItem from="1648787660077" duration="4326000" />
       <workItem from="1648810827166" duration="11000" />
+      <workItem from="1648728040850" duration="1551000" />
     </task>
     <servers />
   </component>
@@ -131,7 +140,6 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
@@ -161,5 +169,21 @@
       <screen x="0" y="0" width="1536" height="834" />
     </state>
     <state width="995" height="120" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1648804480992" />
+    <state width="1206" height="208" key="GridCell.Tab.0.bottom" timestamp="1648731823876">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1206" height="208" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1648731823876" />
+    <state width="1206" height="208" key="GridCell.Tab.0.center" timestamp="1648731823875">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1206" height="208" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1648731823875" />
+    <state width="1206" height="208" key="GridCell.Tab.0.left" timestamp="1648731823875">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1206" height="208" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1648731823875" />
+    <state width="1206" height="208" key="GridCell.Tab.0.right" timestamp="1648731823876">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1206" height="208" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1648731823876" />
   </component>
 </project>
