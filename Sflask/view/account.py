@@ -1,5 +1,5 @@
 from flask import Blueprint, render_template, request, session, redirect, jsonify
-from uuid import uuid4
+
 
 # 创建蓝图
 account = Blueprint('account', __name__)
